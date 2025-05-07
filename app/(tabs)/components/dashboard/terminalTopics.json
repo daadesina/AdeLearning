@@ -1,0 +1,125 @@
+[
+    {
+      "id": "01",
+      "category": "Introduction",
+      "duration": 20,
+      "label": "Completed",
+      "topics": [
+        "What is a Terminal?",
+        "Shell vs Terminal vs Command Line",
+        "Common Shells (bash, zsh, fish)"
+      ]
+    },
+    {
+      "id": "02",
+      "category": "Basic Commands",
+      "duration": 35,
+      "label": "Completed",
+      "topics": [
+        "pwd - Print Working Directory",
+        "ls - List Directory Contents",
+        "cd - Change Directory",
+        "mkdir - Make Directory",
+        "touch - Create Empty File",
+        "cp - Copy Files and Directories",
+        "mv - Move or Rename Files",
+        "rm - Remove Files and Directories",
+        "clear - Clear Terminal Screen"
+      ]
+    },
+    {
+      "id": "03",
+      "category": "File Viewing and Editing",
+      "duration": 27,
+      "label": "Mark as complete",
+      "topics": [
+        "cat - View File Contents",
+        "less and more - View File Page-by-Page",
+        "head and tail - View Start or End of Files",
+        "nano - Simple Terminal Editor",
+        "vim - Introduction to Vim Editor"
+      ]
+    },
+    {
+      "id": "04",
+      "category": "Permissions and Ownership",
+      "duration": 18,
+      "label": "Mark as complete",
+      "topics": [
+        "chmod - Change File Permissions",
+        "chown - Change File Owner",
+        "Understanding rwx Permissions"
+      ]
+    },
+    {
+      "id": "05",
+      "category": "Searching and Filtering",
+      "duration": 23,
+      "label": "Mark as complete",
+      "topics": [
+        "grep - Search Inside Files",
+        "find - Search for Files",
+        "locate - Quickly Find Files",
+        "wc - Word Count",
+        "sort, uniq - Sort and Remove Duplicates"
+      ]
+    },
+    {
+      "id": "06",
+      "category": "Processes and System Info",
+      "duration": 17,
+      "label": "Mark as complete",
+      "topics": [
+        "ps - List Running Processes",
+        "top / htop - Monitor System Usage",
+        "kill - Terminate a Process",
+        "uptime, whoami, hostname"
+      ]
+    },
+    {
+      "id": "07",
+      "category": "Redirection and Pipes",
+      "duration": 15,
+      "label": "Mark as complete",
+      "topics": [
+        "Output Redirection > and >>",
+        "Input Redirection <",
+        "Pipes | - Combining Commands"
+      ]
+    },
+    {
+      "id": "08",
+      "category": "Networking Basics",
+      "duration": 17,
+      "label": "Mark as complete",
+      "topics": [
+        "ping - Test Network Connection",
+        "curl - Make HTTP Requests",
+        "wget - Download Files",
+        "ifconfig / ip - Show Network Info"
+      ]
+    },
+    {
+      "id": "09",
+      "category": "Package Management (Ubuntu/Debian)",
+      "duration": 11,
+      "label": "Mark as complete",
+      "topics": [
+        "apt update and upgrade",
+        "apt install and remove",
+        "dpkg - List Installed Packages"
+      ]
+    },
+    {
+      "id": "10",
+      "category": "Scripting Basics",
+      "duration": 23,
+      "label": "Mark as complete",
+      "topics": [
+        "Creating and Running Shell Scripts",
+        "Variables and Conditionals in Bash",
+        "Loops and Functions in Bash"
+      ]
+    }
+  ]
+  

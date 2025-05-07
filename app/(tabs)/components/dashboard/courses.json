@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "name": "Terminal (CLI)",
+      "description": "Learn the basics of navigating and manipulating files using the Command-Line Interface on Unix and Windows.",
+      "duration": "1 week",
+      "image": "terminalLogo",
+      "status": "In Progress"
+    },
+    {
+      "id": 2,
+      "name": "VIM",
+      "description": "Master VIM, a powerful terminal-based text editor, essential for fast and efficient coding in the CLI.",
+      "duration": "3 days",
+      "image": "vimLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 3,
+      "name": "Git & GitHub",
+      "description": "Understand version control with Git and collaborate using GitHub for managing code and projects.",
+      "duration": "2 days",
+      "image": "gitLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 4,
+      "name": "Python",
+      "description": "Get started with Python programming, covering variables, control structures, functions, scripting, and working with SQLite.",
+      "duration": "6 weeks",
+      "image": "pythonLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 5,
+      "name": "HTML",
+      "description": "Build the structure of web pages using HTML, the foundational language of the web.",
+      "duration": "2 weeks",
+      "image": "htmlLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 6,
+      "name": "CSS",
+      "description": "Style and design websites with CSS, including selectors, layouts, colors, and typography.",
+      "duration": "2 weeks",
+      "image": "cssLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 7,
+      "name": "Flexbox",
+      "description": "Learn Flexbox to build responsive layouts easily using CSS's flexible box model.",
+      "duration": "1 week",
+      "image": "flexBoxLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 8,
+      "name": "Tailwind CSS",
+      "description": "Use Tailwind CSS utility-first classes to rapidly build modern, responsive interfaces.",
+      "duration": "1 week",
+      "image": "tailwindCssLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 9,
+      "name": "JavaScript",
+      "description": "Add interactivity and dynamic behavior to websites using modern JavaScript (ES6+).",
+      "duration": "3 weeks",
+      "image": "javaScriptLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 10,
+      "name": "React",
+      "description": "Develop reusable UI components and SPA functionality with React and React Hooks.",
+      "duration": "4 weeks",
+      "image": "reactLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 11,
+      "name": "Flask",
+      "description": "Create lightweight web apps and REST APIs using Flask. You'll also learn to connect with MySQL and use SQLAlchemy as the ORM.",
+      "duration": "4 weeks",
+      "image": "flaskLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 12,
+      "name": "Node JS",
+      "description": "Learn backend development with Node.js, focusing on servers, databases, and full stack apps.",
+      "duration": "4 weeks",
+      "image": "nodejsLogo",
+      "status": "Locked"
+    },
+    {
+      "id": 13,
+      "name": "Next JS",
+      "description": "Enhance React apps with Next.js by adding routing, server-side rendering, and API routes.",
+      "duration": "2 weeks",
+      "image": "nextjsLogo",
+      "status": "Locked"
+    }
+  ]
+  

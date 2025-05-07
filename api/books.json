@@ -1,0 +1,607 @@
+{
+  "myBooks": [
+    {
+      "id": "1",
+      "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+      "author": "Adam Smith",
+      "year": 1776
+    },
+    {
+      "id": "2",
+      "title": "The Republic",
+      "author": "Plato",
+      "year": -380
+    },
+    {
+      "id": "3",
+      "title": "Two Treatises of Government",
+      "author": "John Locke",
+      "year": 1689
+    },
+    {
+      "id": "4",
+      "title": "Capital, Volume I",
+      "author": "Karl Marx",
+      "year": 1867
+    },
+    {
+      "id": "5",
+      "title": "On Liberty",
+      "author": "John Stuart Mill",
+      "year": 1859
+    },
+    {
+      "id": "6",
+      "title": "Leviathan",
+      "author": "Thomas Hobbes",
+      "year": 1651
+    },
+    {
+      "id": "7",
+      "title": "A Theory of Justice",
+      "author": "John Rawls",
+      "year": 1971
+    },
+    {
+      "id": "8",
+      "title": "The Road to Serfdom",
+      "author": "F.A. Hayek",
+      "year": 1944
+    },
+    {
+      "id": "9",
+      "title": "The Constitution of Liberty",
+      "author": "F.A. Hayek",
+      "year": 1960
+    },
+    {
+      "id": "10",
+      "title": "The Social Contract",
+      "author": "Jean-Jacques Rousseau",
+      "year": 1762
+    },
+    {
+      "id": "11",
+      "title": "The General Theory of Employment, Interest and Money",
+      "author": "John Maynard Keynes",
+      "year": 1936
+    },
+    {
+      "id": "12",
+      "title": "Das Kapital",
+      "author": "Karl Marx",
+      "year": 1867
+    },
+    {
+      "id": "13",
+      "title": "The End of History and the Last Man",
+      "author": "Francis Fukuyama",
+      "year": 1992
+    },
+    {
+      "id": "14",
+      "title": "The Open Society and Its Enemies",
+      "author": "Karl Popper",
+      "year": 1945
+    },
+    {
+      "id": "15",
+      "title": "Democracy in America",
+      "author": "Alexis de Tocqueville",
+      "year": 1835
+    },
+    {
+      "id": "16",
+      "title": "The Communist Manifesto",
+      "author": "Karl Marx and Friedrich Engels",
+      "year": 1848
+    },
+    {
+      "id": "17",
+      "title": "The Second Sex",
+      "author": "Simone de Beauvoir",
+      "year": 1949
+    },
+    {
+      "id": "18",
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "year": 1951
+    },
+    {
+      "id": "19",
+      "title": "The Ethics of Liberty",
+      "author": "Murray Rothbard",
+      "year": 1982
+    },
+    {
+      "id": "20",
+      "title": "Development as Freedom",
+      "author": "Amartya Sen",
+      "year": 1999
+    },
+    {
+      "id": "21",
+      "title": "The Wealth of Nations",
+      "author": "Adam Smith",
+      "year": 1776
+    },
+    {
+      "id": "22",
+      "title": "Utilitarianism",
+      "author": "John Stuart Mill",
+      "year": 1863
+    },
+    {
+      "id": "23",
+      "title": "The Morality of Freedom",
+      "author": "Joseph Raz",
+      "year": 1986
+    },
+    {
+      "id": "24",
+      "title": "Political Liberalism",
+      "author": "John Rawls",
+      "year": 1993
+    },
+    {
+      "id": "25",
+      "title": "Justice as Fairness: A Restatement",
+      "author": "John Rawls",
+      "year": 2001
+    },
+    {
+      "id": "26",
+      "title": "The Ethics of Identity",
+      "author": "Kwame Anthony Appiah",
+      "year": 2005
+    },
+    {
+      "id": "27",
+      "title": "Nudge",
+      "author": "Richard H. Thaler and Cass R. Sunstein",
+      "year": 2008
+    },
+    {
+      "id": "28",
+      "title": "Freakonomics",
+      "author": "Steven D. Levitt and Stephen J. Dubner",
+      "year": 2005
+    },
+    {
+      "id": "29",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "year": 2011
+    },
+    {
+      "id": "30",
+      "title": "The Ethics of What We Eat",
+      "author": "Peter Singer and Jim Mason",
+      "year": 2006
+    },
+    {
+      "id": "31",
+      "title": "The Myth of the Rational Voter",
+      "author": "Bryan Caplan",
+      "year": 2007
+    },
+    {
+      "id": "32",
+      "title": "Why Nations Fail",
+      "author": "Daron Acemoglu and James A. Robinson",
+      "year": 2012
+    },
+    {
+      "id": "33",
+      "title": "The Great Transformation",
+      "author": "Karl Polanyi",
+      "year": 1944
+    },
+    {
+      "id": "34",
+      "title": "Anarchy, State, and Utopia",
+      "author": "Robert Nozick",
+      "year": 1974
+    },
+    {
+      "id": "35",
+      "title": "Justice: What's the Right Thing to Do?",
+      "author": "Michael J. Sandel",
+      "year": 2009
+    },
+    {
+      "id": "36",
+      "title": "Capital in the Twenty-First Century",
+      "author": "Thomas Piketty",
+      "year": 2013
+    },
+    {
+      "id": "37",
+      "title": "Basic Income: A Radical Proposal for a Free Society and a Sane Economy",
+      "author": "Philippe Van Parijs and Yannick Vanderborght",
+      "year": 2017
+    },
+    {
+      "id": "38",
+      "title": "Debt: The First 5,000 Years",
+      "author": "David Graeber",
+      "year": 2011
+    },
+    {
+      "id": "39",
+      "title": "The Logic of Collective Action",
+      "author": "Mancur Olson",
+      "year": 1965
+    },
+    {
+      "id": "40",
+      "title": "The Theory of Moral Sentiments",
+      "author": "Adam Smith",
+      "year": 1759
+    },
+    {
+      "id": "41",
+      "title": "The Great Divergence",
+      "author": "Kenneth Pomeranz",
+      "year": 2000
+    },
+    {
+      "id": "42",
+      "title": "The Future of Capitalism",
+      "author": "Paul Collier",
+      "year": 2018
+    },
+    {
+      "id": "43",
+      "title": "Exit, Voice, and Loyalty",
+      "author": "Albert O. Hirschman",
+      "year": 1970
+    },
+    {
+      "id": "44",
+      "title": "Risk and Culture",
+      "author": "Mary Douglas and Aaron Wildavsky",
+      "year": 1982
+    },
+    {
+      "id": "45",
+      "title": "The Affluent Society",
+      "author": "John Kenneth Galbraith",
+      "year": 1958
+    },
+    {
+      "id": "46",
+      "title": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "year": 1997
+    },
+    {
+      "id": "47",
+      "title": "Collapse",
+      "author": "Jared Diamond",
+      "year": 2005
+    },
+    {
+      "id": "48",
+      "title": "Political Order and Political Decay",
+      "author": "Francis Fukuyama",
+      "year": 2014
+    },
+    {
+      "id": "49",
+      "title": "The Origins of Political Order",
+      "author": "Francis Fukuyama",
+      "year": 2011
+    },
+    {
+      "id": "50",
+      "title": "The Righteous Mind",
+      "author": "Jonathan Haidt",
+      "year": 2012
+    },
+    {
+      "id": "51",
+      "title": "The Economics of Welfare",
+      "author": "Arthur Cecil Pigou",
+      "year": 1920
+    },
+    {
+      "id": "52",
+      "title": "The State",
+      "author": "Franz Oppenheimer",
+      "year": 1908
+    },
+    {
+      "id": "53",
+      "title": "The Machinery of Freedom",
+      "author": "David D. Friedman",
+      "year": 1973
+    },
+    {
+      "id": "54",
+      "title": "The Calculus of Consent",
+      "author": "James M. Buchanan and Gordon Tullock",
+      "year": 1962
+    },
+    {
+      "id": "55",
+      "title": "Open Borders",
+      "author": "Bryan Caplan",
+      "year": 2019
+    },
+    {
+      "id": "56",
+      "title": "Rules and Order",
+      "author": "F.A. Hayek",
+      "year": 1973
+    },
+    {
+      "id": "57",
+      "title": "Liberalism",
+      "author": "Ludwig von Mises",
+      "year": 1927
+    },
+    {
+      "id": "58",
+      "title": "Human Action",
+      "author": "Ludwig von Mises",
+      "year": 1949
+    },
+    {
+      "id": "59",
+      "title": "The Spirit Level",
+      "author": "Richard Wilkinson and Kate Pickett",
+      "year": 2009
+    },
+    {
+      "id": "60",
+      "title": "The State and Revolution",
+      "author": "Vladimir Lenin",
+      "year": 1917
+    },
+    {
+      "id": "61",
+      "title": "What Money Can't Buy",
+      "author": "Michael J. Sandel",
+      "year": 2012
+    },
+    {
+      "id": "62",
+      "title": "The Wisdom of Crowds",
+      "author": "James Surowiecki",
+      "year": 2004
+    },
+    {
+      "id": "63",
+      "title": "The Tragedy of the Commons",
+      "author": "Garrett Hardin",
+      "year": 1968
+    },
+    {
+      "id": "64",
+      "title": "Collective Choice and Social Welfare",
+      "author": "Amartya Sen",
+      "year": 1970
+    },
+    {
+      "id": "65",
+      "title": "Economics in One Lesson",
+      "author": "Henry Hazlitt",
+      "year": 1946
+    },
+    {
+      "id": "66",
+      "title": "The End of Alchemy",
+      "author": "Mervyn King",
+      "year": 2016
+    },
+    {
+      "id": "67",
+      "title": "The Anti-Capitalistic Mentality",
+      "author": "Ludwig von Mises",
+      "year": 1956
+    },
+    {
+      "id": "68",
+      "title": "Moral Tribes",
+      "author": "Joshua Greene",
+      "year": 2013
+    },
+    {
+      "id": "69",
+      "title": "Political Philosophy",
+      "author": "Steven Cahn",
+      "year": 2005
+    },
+    {
+      "id": "70",
+      "title": "The Principles of Political Economy",
+      "author": "David Ricardo",
+      "year": 1817
+    },
+    {
+      "id": "71",
+      "title": "The Limits to Growth",
+      "author": "Donella Meadows",
+      "year": 1972
+    },
+    {
+      "id": "72",
+      "title": "The Worldly Philosophers",
+      "author": "Robert Heilbroner",
+      "year": 1953
+    },
+    {
+      "id": "73",
+      "title": "Moral Sentiments and Material Interests",
+      "author": "Herbert Gintis et al.",
+      "year": 2005
+    },
+    {
+      "id": "74",
+      "title": "Theory of Games and Economic Behavior",
+      "author": "John von Neumann and Oskar Morgenstern",
+      "year": 1944
+    },
+    {
+      "id": "75",
+      "title": "The Political Economy of the Welfare State",
+      "author": "Ian Gough",
+      "year": 1979
+    },
+    {
+      "id": "76",
+      "title": "Economics for the Common Good",
+      "author": "Jean Tirole",
+      "year": 2017
+    },
+    {
+      "id": "77",
+      "title": "What Is Property?",
+      "author": "Pierre-Joseph Proudhon",
+      "year": 1840
+    },
+    {
+      "id": "78",
+      "title": "The Discovery of Freedom",
+      "author": "Rose Wilder Lane",
+      "year": 1943
+    },
+    {
+      "id": "79",
+      "title": "Social Choice and Individual Values",
+      "author": "Kenneth Arrow",
+      "year": 1951
+    },
+    {
+      "id": "80",
+      "title": "The Law",
+      "author": "Frédéric Bastiat",
+      "year": 1850
+    },
+    {
+      "id": "81",
+      "title": "The Protestant Ethic and the Spirit of Capitalism",
+      "author": "Max Weber",
+      "year": 1905
+    },
+    {
+      "id": "82",
+      "title": "Man, Economy, and State",
+      "author": "Murray Rothbard",
+      "year": 1962
+    },
+    {
+      "id": "83",
+      "title": "A Treatise of Human Nature",
+      "author": "David Hume",
+      "year": 1739
+    },
+    {
+      "id": "84",
+      "title": "The Structure of Scientific Revolutions",
+      "author": "Thomas S. Kuhn",
+      "year": 1962
+    },
+    {
+      "id": "85",
+      "title": "The Philosophy of History",
+      "author": "Georg Wilhelm Friedrich Hegel",
+      "year": 1837
+    },
+    {
+      "id": "86",
+      "title": "The Poverty of Historicism",
+      "author": "Karl Popper",
+      "year": 1957
+    },
+    {
+      "id": "87",
+      "title": "The Economic Consequences of the Peace",
+      "author": "John Maynard Keynes",
+      "year": 1919
+    },
+    {
+      "id": "88",
+      "title": "Justice and the Politics of Difference",
+      "author": "Iris Marion Young",
+      "year": 1990
+    },
+    {
+      "id": "89",
+      "title": "Freedom is Not Enough",
+      "author": "Ronald Walters",
+      "year": 2005
+    },
+    {
+      "id": "90",
+      "title": "The Great Illusion",
+      "author": "Norman Angell",
+      "year": 1909
+    },
+    {
+      "id": "91",
+      "title": "Against the Market",
+      "author": "David McNally",
+      "year": 1993
+    },
+    {
+      "id": "92",
+      "title": "The End of Poverty",
+      "author": "Jeffrey Sachs",
+      "year": 2005
+    },
+    {
+      "id": "93",
+      "title": "Good Economics for Hard Times",
+      "author": "Abhijit V. Banerjee and Esther Duflo",
+      "year": 2019
+    },
+    {
+      "id": "94",
+      "title": "The Undercover Economist",
+      "author": "Tim Harford",
+      "year": 2005
+    },
+    {
+      "id": "95",
+      "title": "Poor Economics",
+      "author": "Abhijit Banerjee and Esther Duflo",
+      "year": 2011
+    },
+    {
+      "id": "96",
+      "title": "Daron Acemoglu on Political Economy",
+      "author": "Daron Acemoglu",
+      "year": 2015
+    },
+    {
+      "id": "97",
+      "title": "Inequality Reexamined",
+      "author": "Amartya Sen",
+      "year": 1992
+    },
+    {
+      "id": "98",
+      "title": "The Price of Inequality",
+      "author": "Joseph E. Stiglitz",
+      "year": 2012
+    },
+    {
+      "id": "99",
+      "title": "Making Globalization Work",
+      "author": "Joseph E. Stiglitz",
+      "year": 2006
+    },
+    {
+      "id": "100",
+      "title": "The Hidden Persuaders",
+      "author": "Vance Packard",
+      "year": 1957
+    }
+  ],
+  "user": [
+    
+  ]
+}
